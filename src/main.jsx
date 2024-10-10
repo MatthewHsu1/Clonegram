@@ -11,7 +11,7 @@ import { BrowserRouter } from 'react-router-dom';
 const styles = {
   global: (props) => ({
     body:{
-      bg:    mode("#F7A306", "#000")(props),
+      bg:    mode("#000000", "#000000")(props),
       color: mode("#FFFFFF", "#FFFFFF")(props),
     }
   })
